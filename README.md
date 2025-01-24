@@ -26,7 +26,7 @@ PORT=3000
 ```
 node server.js
 ```
-##Endpoints
+## Endpoints
 ### Register & Login
 | Endpoint | Method | Description |
 | ------------- | ------------- | ------------- |
@@ -119,7 +119,7 @@ node server.js
   "role": ""
 }
 ```
-##User roles
+## User roles
 User's role can only be one of these:
 | Name | Rights |
 | ------------- | ------------- |
