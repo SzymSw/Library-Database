@@ -1,4 +1,4 @@
-# Library-Database
+# Library Database
 Simple library database system built using MongoDB (Mongoose), Express.js, Node.js. and JWT.
 ## Starting
 1. Install MongoDB & Postman on your computer.
