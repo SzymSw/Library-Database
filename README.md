@@ -5,10 +5,14 @@ Simple library database system built using MongoDB (Mongoose), Express.js, Node.
 2. Clone the repository:
 
 3. Change to root folder:
-```cd library-database```
-4. Install all necessary dependiencies:
-```npm install```
-5. Configure the .env file according to your preferences, for example:
+```
+cd library-database
+```
+5. Install all necessary dependiencies:
+```
+npm install
+```
+7. Configure the .env file according to your preferences, for example:
 ```
 JWT_KEY=yourSecretKey
 DB_USER=admin
@@ -17,4 +21,6 @@ DB_NAME=library
 PORT=3000
 ```
 6. Run the app:
-```node server.js```
+```
+node server.js
+```
